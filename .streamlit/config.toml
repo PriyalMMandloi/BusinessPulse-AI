@@ -1,0 +1,9 @@
+# ============================================================
+# BusinessPulse-AI
+# Streamlit Theme Configuration
+# ============================================================
+
+[theme]
+
+# Primary Accent Color
+primaryColor = "#4F46E5"
