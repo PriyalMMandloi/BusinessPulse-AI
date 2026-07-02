@@ -25,9 +25,9 @@ API_URL = "http://127.0.0.1:8000/predict"
 
 APP_NAME = "BusinessPulse-AI"
 
-APP_SUBTITLE = "Customer Churn Prediction & Retention Analytics Platform"
+APP_SUBTITLE = "End-to-End Customer Churn Prediction Platform"
 
-APP_VERSION = "1.0"
+APP_VERSION = "1.0.0"
 
 MODEL_NAME = "Random Forest"
 
